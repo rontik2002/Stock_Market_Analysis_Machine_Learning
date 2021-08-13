@@ -11,4 +11,4 @@ Market Analysis - Machine Learning
 - Ensured an 80%+ hit rate on Above 400% prediction to outperform the market (100%+ returns) between Aug 2016 - AUG 2021
 - Assesed the financial standing of the S&P 500 components and created a list of stocks expected to underperform, and beat the market. Click here to see the excel sheet for the predictions. 
 
-[I'm a relative reference to a repository file](Stock_Market_Analysis_Machine_Learning/main/countOfPredictedValues.xlsx)
+[I'm a relative reference to a repository file](countOfPredictedValues.xlsx)
